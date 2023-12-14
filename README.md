@@ -18,3 +18,5 @@ Paper covers rock.
 Enjoy playing Rock, Paper, Scissors! May the best player win! If you encounter any issues or have suggestions for improvement, feel free to open an issue or contribute to the project.
 
 Happy gaming! 🎮
+
+![Screenshot 2023-12-14 190230](https://github.com/isanjeevroy/rock-paper-scissors/assets/108814776/ab7baa43-ab53-47fe-a7b9-c576f39004ef)
