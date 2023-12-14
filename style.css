@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.container{
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 30px;
+    gap: 5rem;
+}
+.options{
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+}
+.option img{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    border: 3px solid black;
+    cursor: pointer;
+
+}
+.option img:hover{
+    opacity: .8;
+    border: 3px solid green;
+}
+.scores{
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    gap: 5rem;
+    text-align: center;
+}
+.result{
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+
+}
+#msg{
+    background-color: black;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+}
