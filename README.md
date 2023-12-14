@@ -3,7 +3,7 @@ This Rock, Paper, Scissors game is a classic and timeless experience, bringing t
 
 # How to Play
 1. Clone the Repository: Clone this repository to your local machine using the command
-git clone https://github.com/your-username/rock-paper-scissors.git
+git clone https://github.com/isanjeevroy/rock-paper-scissors.git
 
 2. Navigate to the Directory: Move into the project directory [cd rock-paper-scissors]
 
